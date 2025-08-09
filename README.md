@@ -11,3 +11,6 @@ Analyze how trading behavior (profitability, risk, volume, leverage) aligns or d
 
 **Final Analysis**:
 A planned but flexible line of transaction that flows along with the market trends can make one thrive in the coin market.
+
+**Colab Link**:
+https://colab.research.google.com/drive/1eEv5lsrRdXvIQMaPhPd7Yv5oztWSFFk6?usp=sharing 
